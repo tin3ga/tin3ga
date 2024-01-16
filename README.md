@@ -1,4 +1,6 @@
-# Hi, i'm tinega 👋🏼
+<div align="center">
+  <h1> Hello World 👋🏼</h1>
+</div>
 
 <p align='center'> 
 <a href="https://www.linkedin.com/in/tinegagideon/"><img height="30" src="https://raw.githubusercontent.com/trinwin/trinwin/master/icons/linkedin.png?raw=true"></a>&nbsp;&nbsp;
