@@ -35,11 +35,11 @@
 ## Recent articles on [Dev.to](https://dev.to/tinegagideon)
 
 <!-- BLOG-POST-LIST:START -->
+- [A Docker Compose Example &lpar;FlaskAPP + PostgreSQL + Traefik&rpar;.](https://dev.to/tinegagideon/a-docker-compose-example-flaskapp-postgresql-traefik-2k0k)
 - [Crafting a Docker Image for Your Flask Web App](https://dev.to/tinegagideon/crafting-a-docker-image-for-your-flask-web-app-2l8g)
 - [Elevating PRs with the Magic of an AI-Agent for a Seamless Experience: PR-Agent Vs Copilot For PRs](https://dev.to/tinegagideon/elevating-prs-with-the-magic-of-an-ai-agent-for-a-seamless-experience-pr-agent-vs-copilot-for-prs-3pm1)
 - [Python One Liners](https://dev.to/tinegagideon/python-one-liners-1klg)
 - [Web Scraping using Selenium: A Guide for Beginners](https://dev.to/tinegagideon/web-scraping-using-selenium-a-guide-for-beginners-3ke6)
-- [List &amp; Dictionary Comprehension in Python](https://dev.to/tinegagideon/list-dictionary-comprehension-in-python-53m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Icon Credits @ trinwin -->
